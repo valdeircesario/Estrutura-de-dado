@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab19f6a5-d7da-45c7-a185-23d0cfb73156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mengerSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/heapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.12792969",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +81,14 @@
       <recent name="boobleSort" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.mengerSort">
+    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heapSort" />
+      <module name="vetor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mengerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mengerSort" />
       <module name="vetor" />
@@ -91,6 +99,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.mengerSort" />
+        <item itemvalue="Application.heapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +116,7 @@
       <workItem from="1730424704581" duration="882000" />
       <workItem from="1730426006902" duration="289000" />
       <workItem from="1730426329563" duration="1443000" />
-      <workItem from="1730428140965" duration="10105000" />
+      <workItem from="1730428140965" duration="15443000" />
     </task>
     <servers />
   </component>
