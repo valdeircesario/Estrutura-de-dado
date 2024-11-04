@@ -4,21 +4,22 @@ public class heapSort {
         int raiz = i;
         int esquerda = 2*i + 1;
         int direita = 2*i + 2;
+
+
         if (esquerda < n && vet[esquerda] > vet[raiz]){
             raiz = esquerda;
-
         }
+
         if (direita < n && vet[direita] > vet[raiz]){
             raiz = direita;
         }
+
         if (raiz != i){
             int aux = vet[i];
             vet[i] = vet[raiz];
             vet[raiz] = aux;
             aplicarheap(vet, n, raiz);
         }
-
-
     }
 
 
@@ -34,7 +35,9 @@ public class heapSort {
             System.out.print(vet[i]+", ");
 
         }
-        //algoritimo heap sort
+
+
+        // chamar algoritimo heap sort
         int n = vet.length;
         for (int i = n / 2-1;i >= 0; i--){
             aplicarheap(vet,n,i);
