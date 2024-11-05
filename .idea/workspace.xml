@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab19f6a5-d7da-45c7-a185-23d0cfb73156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bubleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/heapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/heapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boobleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
       <recent name="C:\Users\VALDEIR_CESARIO\IdeaProjects\quarkus10\README.md" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="BubbleSort.java" />
       <recent name="" />
       <recent name="boobleSort" />
     </key>
@@ -134,7 +136,7 @@
       <workItem from="1730426329563" duration="1443000" />
       <workItem from="1730428140965" duration="17803000" />
       <workItem from="1730661410752" duration="1238000" />
-      <workItem from="1730662710399" duration="5039000" />
+      <workItem from="1730662710399" duration="7651000" />
     </task>
     <servers />
   </component>

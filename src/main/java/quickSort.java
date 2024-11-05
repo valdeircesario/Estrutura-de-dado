@@ -30,7 +30,7 @@ public class quickSort {
     //metodo que pega o pivor e ordena sua posição, deixando em ordem crecente
     // com a direita e esquerda e efetua a troca
     public static int particao(int[] vet,int esqueda,int direita){
-        int meio = (int)(esqueda + direita)/2;
+        int meio = (esqueda + direita)/2;
         int pivot = vet[meio];
         int i = esqueda -1;
         int j = direita + 1;

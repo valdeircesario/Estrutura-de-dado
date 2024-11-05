@@ -26,10 +26,12 @@ Abaixo, você encontrará uma breve explicação de cada algoritmo de ordenaçã
 - **Heap Sort**  
   Constrói uma estrutura de heap a partir da lista, garantindo que o maior (ou menor) elemento seja colocado na posição correta a cada iteração. O Heap Sort é eficiente e tem uma complexidade de tempo O(n log n), embora seja mais complexo de implementar.
 
-- **Radix Sort**  
-  Um algoritmo de ordenação não-comparativo que organiza números dígito a dígito, de menor para maior ordem, sendo especialmente útil para listas de inteiros. O Radix Sort tem um desempenho eficiente para listas grandes com valores numéricos.
+[//]: # (- **Radix Sort**  )
 
-- **Shell Sort**  
-  Uma variação do Insertion Sort, que permite a movimentação de elementos de forma mais rápida ao inicializar grandes gaps entre os elementos comparados, e então diminui esses gaps gradualmente até que a lista esteja ordenada.
+[//]: # (  Um algoritmo de ordenação não-comparativo que organiza números dígito a dígito, de menor para maior ordem, sendo especialmente útil para listas de inteiros. O Radix Sort tem um desempenho eficiente para listas grandes com valores numéricos.)
+
+[//]: # (- **Shell Sort**  )
+
+[//]: # (  Uma variação do Insertion Sort, que permite a movimentação de elementos de forma mais rápida ao inicializar grandes gaps entre os elementos comparados, e então diminui esses gaps gradualmente até que a lista esteja ordenada.)
 
 Cada algoritmo é acompanhado de uma explicação detalhada e um exemplo de código em Java para facilitar a prática e o estudo.
