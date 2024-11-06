@@ -14,9 +14,10 @@ Abaixo, você encontrará uma breve explicação de cada algoritmo de ordenaçã
 Veja abaixo uma demosstração das trocas do algoritimo bubbleSort: 
 
 <div align="center">
-    <img src="./img/bobblesort.png" alt="Descrição da imagem" width="400">
+    <img src="./img/bobblesort.png" alt="Descrição da imagem" width="500">
     <p><em>Legenda da imagem: Bubble Sort.</em></p>
 </div>
+
 - **Insertion Sort**  
   Ordena a lista gradualmente, construindo uma sublista ordenada à medida que percorre a lista original. A cada passo, um elemento é removido da lista de entrada e inserido na posição correta dentro da sublista ordenada. É eficiente para listas pequenas e parcialmente ordenadas.
 
