@@ -11,6 +11,12 @@ Abaixo, você encontrará uma breve explicação de cada algoritmo de ordenaçã
 - **Bubble Sort**  
   Um algoritmo de ordenação simples que percorre repetidamente a lista, comparando elementos adjacentes e trocando-os se estiverem na ordem errada. Esse processo se repete até que a lista esteja ordenada. É eficiente para listas pequenas, mas possui um desempenho mais baixo em listas maiores.
 
+Veja abaixo uma demosstração das trocas do algoritimo bubbleSort: 
+
+<div align="center">
+    <img src="..%2F..%2F..%2FOneDrive%2FImagens%2FDownload%2Fbobblesort.png " alt="Descrição da imagem" width="400">
+    <p><em>Legenda da imagem: Bubble Sort.</em></p>
+</div>
 - **Insertion Sort**  
   Ordena a lista gradualmente, construindo uma sublista ordenada à medida que percorre a lista original. A cada passo, um elemento é removido da lista de entrada e inserido na posição correta dentro da sublista ordenada. É eficiente para listas pequenas e parcialmente ordenadas.
 
