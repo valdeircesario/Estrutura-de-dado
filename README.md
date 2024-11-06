@@ -21,6 +21,13 @@ Veja abaixo uma demosstração das trocas do algoritimo bubbleSort:
 - **Insertion Sort**  
   Ordena a lista gradualmente, construindo uma sublista ordenada à medida que percorre a lista original. A cada passo, um elemento é removido da lista de entrada e inserido na posição correta dentro da sublista ordenada. É eficiente para listas pequenas e parcialmente ordenadas.
 
+Veja abaixo uma demosstração das trocas do algoritimo Insertion Sort:
+
+<div align="center">
+    <img src="./img/insertsort.png" alt="Descrição da imagem" width="500">
+    <p><em>Legenda da imagem: Insertion Sort.</em></p>
+</div>
+
 - **Selection Sort**  
   Divide o array em uma sublista ordenada e uma não ordenada. A cada iteração, encontra o menor (ou maior) elemento na sublista não ordenada e o move para a posição correta na sublista ordenada. Embora tenha complexidade de tempo relativamente alta, é fácil de implementar.
 
