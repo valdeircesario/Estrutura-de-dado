@@ -14,7 +14,7 @@ Abaixo, você encontrará uma breve explicação de cada algoritmo de ordenaçã
 Veja abaixo uma demosstração das trocas do algoritimo bubbleSort: 
 
 <div align="center">
-    <img src="..%2F..%2F..%2FOneDrive%2FImagens%2FDownload%2Fbobblesort.png " alt="Descrição da imagem" width="400">
+    <img src="./img/bobblesort.png" alt="Descrição da imagem" width="400">
     <p><em>Legenda da imagem: Bubble Sort.</em></p>
 </div>
 - **Insertion Sort**  
