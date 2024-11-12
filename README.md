@@ -24,7 +24,7 @@ Veja abaixo uma demosstração das trocas do algoritimo bubbleSort:
 Veja abaixo uma demosstração das trocas do algoritimo Insertion Sort:
 
 <div align="center">
-    <img src="./img/insertsort.png" alt="Descrição da imagem" width="500">
+    <img src="./img/insertsort10.png" alt="Descrição da imagem" width="500">
     <p><em>Legenda da imagem: Insertion Sort.</em></p>
 </div>
 
